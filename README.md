@@ -4,4 +4,4 @@
 2. `cd rectangle_checkr_sinatra`
 3. `bundle`
 4. `ruby app.rb`
-5. `Once the application boots up visit: "http://localhost:4567" in your favorite web browser`
+5. Once the application boots up visit: "http://localhost:4567" in your favorite web browser
